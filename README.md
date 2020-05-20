@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/brunavent/analise_dados_clima/blob/master/banner.png">
+  <img src="https://raw.githubusercontent.com/brunavent/template_temp/master/21767.jpg">
 </p>
 
 # Bruna Ventorim
