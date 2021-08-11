@@ -5,7 +5,7 @@
 </p>
 
 # Bruna Ventorim
-<sub>*Estudante de Machine Learning* e futura cientista da computação.</sub>
+<sub>*Estudante de Data Science* e futura cientista da computação.</sub>
 
 ## Projetos:
 
