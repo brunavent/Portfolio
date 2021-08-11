@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brunavent/template_temp/master/MACHINE%20LEARNING%20(1).png">
+  <img src="https://github.com/brunavent/template_temp/blob/master/banner.png">
 </p>
 
 # Bruna Ventorim
