@@ -5,7 +5,7 @@
 </p>
 
 # Bruna Ventorim
-👩🏽‍💻 Mulher negra de 25 anos apaixonada por tecnologia e Data Science. </br>
+👩🏽‍💻 Mulher negra de 25 anos se aventurando no mundo de Data Science. </br>
 💻 Bacharelanda em Ciência da Computação pela Universidade do Rio e estudante de Data Science.</br>
 Esse espaço é dedicado aos meus projetos.
 
