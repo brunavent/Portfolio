@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/brunavent/template_temp/blob/master/banner.png">
+  <img src="https://raw.githubusercontent.com/brunavent/template_temp/master/DATA%20SCIENCE%20(1).png">
 </p>
 
 # Bruna Ventorim
