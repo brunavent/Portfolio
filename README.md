@@ -12,9 +12,10 @@ Esse espaço é dedicado aos meus projetos.
 
 ## Projetos:
 
-* **Análise de dados climáticos:** https://bit.ly/3bJRFcx
-* **Prever atrasos de voos criando um modelo de Machine Learning:** https://bit.ly/2WOfGLv
-* **É possível uma máquina de aprendizagem entender de sentimentos?**: https://bit.ly/3bZoEdi
+* **[Análise de dados climáticos](https://bit.ly/3bJRFcx)**
+* **[Prever atrasos de voos criando um modelo de Machine Learning](https://bit.ly/2WOfGLv)**
+* **[É possível uma máquina de aprendizagem entender de sentimentos?](https://bit.ly/3bZoEdi)**
+* **[Análise dos Dados do Airbnb em Paris](https://bityli.com/qeqOH)**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/brunaventorimti/)
