@@ -12,6 +12,7 @@ Esse espaço é dedicado aos meus projetos.
 
 ## Projetos:
 
+* **[Panorama do COVID-19[(https://bityli.com/DNS2S)**
 * **[Análise de dados climáticos](https://bit.ly/3bJRFcx)**
 * **[Prever atrasos de voos criando um modelo de Machine Learning](https://bit.ly/2WOfGLv)**
 * **[É possível uma máquina de aprendizagem entender de sentimentos?](https://bit.ly/3bZoEdi)**
